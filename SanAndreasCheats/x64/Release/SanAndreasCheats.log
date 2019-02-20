@@ -1,0 +1,10 @@
+﻿  d3dhook.cpp
+d:\projects\c++\sanandreascheats\sanandreascheats\d3dhook.cpp(94): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  gameinput.cpp
+d:\projects\c++\sanandreascheats\sanandreascheats\gameinput.cpp(54): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  dllmain.cpp
+d:\projects\c++\sanandreascheats\sanandreascheats\dllmain.cpp(121): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  hooking.cpp
+d:\projects\c++\sanandreascheats\sanandreascheats\hooking.cpp(45): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  hooking.h
+d:\projects\c++\sanandreascheats\sanandreascheats\hooking.h(20): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
